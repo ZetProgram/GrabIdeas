@@ -1,0 +1,6 @@
+name: GrabIdeas
+main: de.gi.Main
+version: 1.0
+
+commands:
+   getmagicstick:
